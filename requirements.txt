@@ -1,9 +1,9 @@
 altair==4.2.0
 argon2-cffi 
 argon2-cffi-bindings 
-asttokens==1.16.0
-attrs==21.4.0
-backcall==0.2.0
+asttokens
+attrs
+backcall
 beautifulsoup4 
 bleach 
 blinker==1.5
